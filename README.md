@@ -1,5 +1,3 @@
-# GameLab Project Repository
-
 |  General Info  | |
 | ---|---|
 | Working Title | SOMACS v0.1 |
